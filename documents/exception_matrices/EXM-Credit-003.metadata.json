@@ -1,0 +1,157 @@
+{
+  "document_id": "EXM-Credit-003",
+  "title": "Working Capital Exception Matrix",
+  "path": "documents/exception_matrices/EXM-Credit-003_Working_Capital_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "Credit",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "credit",
+    "credit risk",
+    "loan assessment",
+    "working capital",
+    "overdraft",
+    "working capital exception matrix",
+    "EXM-Credit-003",
+    "Working",
+    "Capital",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Credit-003"
+    },
+    {
+      "document_id": "SOP-Credit-003"
+    },
+    {
+      "document_id": "KOD-Credit-003"
+    },
+    {
+      "document_id": "FAQ-Credit-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Risk"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "SLA"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Reference"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

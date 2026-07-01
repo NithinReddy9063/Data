@@ -1,0 +1,197 @@
+{
+  "document_id": "SOP-Corporate Banking-003",
+  "title": "Cash Management Service SOP",
+  "path": "documents/sops/SOP-Corporate_Banking-003_Cash_Management_Service_SOP.md",
+  "document_type": "Standard Operating Procedure",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "cash management service sop",
+    "SOP-Corporate",
+    "Banking-003",
+    "Cash",
+    "Management"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-003"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-003"
+    },
+    {
+      "document_id": "FAQ-Corporate Banking-003"
+    },
+    {
+      "document_id": "FAQ-Corporate Banking-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Preconditions",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Preconditions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Inputs",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Inputs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Procedure",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Procedure"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Decision Points",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Decision",
+        "Points"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Outputs",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Outputs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exception Handling",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Exception",
+        "Handling"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "KPIs",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "KPIs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "References",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "References"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management service sop",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

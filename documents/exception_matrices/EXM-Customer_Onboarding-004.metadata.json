@@ -1,0 +1,159 @@
+{
+  "document_id": "EXM-Customer Onboarding-004",
+  "title": "High Risk Onboarding Exception Matrix",
+  "path": "documents/exception_matrices/EXM-Customer_Onboarding-004_High_Risk_Onboarding_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "Customer Onboarding",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Critical",
+  "keywords": [
+    "customer onboarding",
+    "account opening",
+    "consent",
+    "data quality",
+    "approval routing",
+    "high risk onboarding exception matrix",
+    "EXM-Customer",
+    "Onboarding-004",
+    "High",
+    "Risk",
+    "Onboarding",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Customer Onboarding-004"
+    },
+    {
+      "document_id": "SOP-Customer Onboarding-004"
+    },
+    {
+      "document_id": "KOD-Customer Onboarding-004"
+    },
+    {
+      "document_id": "FAQ-Customer Onboarding-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Risk"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Decision"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "SLA"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Escalation"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Reference"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Governance"
+      ],
+      "chunk_priority": "Critical"
+    }
+  ]
+}

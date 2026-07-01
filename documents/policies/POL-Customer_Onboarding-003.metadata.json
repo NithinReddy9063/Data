@@ -1,0 +1,213 @@
+{
+  "document_id": "POL-Customer Onboarding-003",
+  "title": "Customer Onboarding Approval Policy",
+  "path": "documents/policies/POL-Customer_Onboarding-003_Customer_Onboarding_Approval_Policy.md",
+  "document_type": "Policy",
+  "domain": "Customer Onboarding",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "customer onboarding",
+    "account opening",
+    "consent",
+    "data quality",
+    "approval routing",
+    "customer onboarding approval policy",
+    "POL-Customer",
+    "Onboarding-003",
+    "Customer",
+    "Onboarding",
+    "Approval"
+  ],
+  "related_documents": [
+    {
+      "document_id": "SOP-Customer Onboarding-003"
+    },
+    {
+      "document_id": "SOP-Customer Onboarding-004"
+    },
+    {
+      "document_id": "SOP-Customer Onboarding-005"
+    },
+    {
+      "document_id": "KOD-Customer Onboarding-003"
+    },
+    {
+      "document_id": "KOD-Customer Onboarding-004"
+    },
+    {
+      "document_id": "KOD-Customer Onboarding-001"
+    },
+    {
+      "document_id": "EXM-Customer Onboarding-003"
+    },
+    {
+      "document_id": "EXM-Customer Onboarding-004"
+    },
+    {
+      "document_id": "EXM-Customer Onboarding-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Scope",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Scope"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Definitions",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Definitions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Policy Statements",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Statements"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Roles",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Roles"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Decision Rules",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Decision",
+        "Rules"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exceptions",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Exceptions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Controls",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Controls"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Related Documents",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Related"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

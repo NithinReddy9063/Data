@@ -1,0 +1,173 @@
+{
+  "document_id": "FAQ-Trade Finance-007",
+  "title": "Financial Institution Trade Customer Query",
+  "path": "documents/case_repository/FAQ-Trade_Finance-007_Financial_Institution_Trade_Customer_Query.md",
+  "document_type": "Case Repository",
+  "domain": "Trade Finance",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "trade finance",
+    "letter of credit",
+    "bank guarantee",
+    "export finance",
+    "import finance",
+    "financial institution trade customer query",
+    "FAQ-Trade",
+    "Finance-007",
+    "Financial",
+    "Institution",
+    "Trade",
+    "Customer"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Trade Finance-007"
+    },
+    {
+      "document_id": "SOP-Trade Finance-007"
+    },
+    {
+      "document_id": "EXM-Trade Finance-003"
+    },
+    {
+      "document_id": "KOD-Trade Finance-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Customer"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Question"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Resolution"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Reasoning"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Supporting"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

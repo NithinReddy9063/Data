@@ -1,0 +1,158 @@
+{
+  "document_id": "EXM-Retail Banking-001",
+  "title": "Retail Account Service Exception Matrix",
+  "path": "documents/exception_matrices/EXM-Retail_Banking-001_Retail_Account_Service_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "Retail Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "retail banking",
+    "savings account",
+    "current account",
+    "salary account",
+    "deposit servicing",
+    "retail account service exception matrix",
+    "EXM-Retail",
+    "Banking-001",
+    "Retail",
+    "Account",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Retail Banking-001"
+    },
+    {
+      "document_id": "SOP-Retail Banking-001"
+    },
+    {
+      "document_id": "KOD-Retail Banking-001"
+    },
+    {
+      "document_id": "FAQ-Retail Banking-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Risk"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "SLA"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Reference"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

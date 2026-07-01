@@ -1,0 +1,48 @@
+{
+  "document_id": "ACB-REP-BATCH-AUDIT-001",
+  "title": "ACB Batch Audit Log v1.0",
+  "path": "ACB_Batch_Audit_Log_v1.0.md",
+  "document_type": "Audit Log",
+  "domain": "Repository Governance",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "ACB",
+    "Batch",
+    "Audit",
+    "Log",
+    "v1 0"
+  ],
+  "related_documents": [],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Revision History",
+      "keywords": [
+        "ACB",
+        "Batch",
+        "Audit",
+        "Log",
+        "v1 0",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Governance",
+      "keywords": [
+        "ACB",
+        "Batch",
+        "Audit",
+        "Log",
+        "v1 0",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "document_id": "FAQ-Corporate Banking-003",
+  "title": "Cash Management Setup Clarification",
+  "path": "documents/case_repository/FAQ-Corporate_Banking-003_Cash_Management_Setup_Clarification.md",
+  "document_type": "Case Repository",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "cash management setup clarification",
+    "FAQ-Corporate",
+    "Banking-003",
+    "Cash",
+    "Management",
+    "Setup"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-003"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-003"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-003"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management setup clarification",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

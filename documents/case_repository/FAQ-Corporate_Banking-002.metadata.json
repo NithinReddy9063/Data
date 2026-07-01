@@ -1,0 +1,171 @@
+{
+  "document_id": "FAQ-Corporate Banking-002",
+  "title": "Escrow Account Instruction Query",
+  "path": "documents/case_repository/FAQ-Corporate_Banking-002_Escrow_Account_Instruction_Query.md",
+  "document_type": "Case Repository",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "escrow account instruction query",
+    "FAQ-Corporate",
+    "Banking-002",
+    "Escrow",
+    "Account",
+    "Instruction"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-002"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-002"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-002"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-002"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account instruction query",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

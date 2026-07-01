@@ -1,0 +1,158 @@
+{
+  "document_id": "EXM-Trade Finance-004",
+  "title": "Import Finance Exception Matrix",
+  "path": "documents/exception_matrices/EXM-Trade_Finance-004_Import_Finance_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "Trade Finance",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "trade finance",
+    "letter of credit",
+    "bank guarantee",
+    "export finance",
+    "import finance",
+    "import finance exception matrix",
+    "EXM-Trade",
+    "Finance-004",
+    "Import",
+    "Finance",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Trade Finance-004"
+    },
+    {
+      "document_id": "SOP-Trade Finance-004"
+    },
+    {
+      "document_id": "KOD-Trade Finance-004"
+    },
+    {
+      "document_id": "FAQ-Trade Finance-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Risk"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "SLA"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Reference"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "trade finance",
+        "letter of credit",
+        "bank guarantee",
+        "export finance",
+        "import finance",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "document_id": "FAQ-KYC-007",
+  "title": "High Risk Customer Review Delay",
+  "path": "documents/case_repository/FAQ-KYC-007_High_Risk_Customer_Review_Delay.md",
+  "document_type": "Case Repository",
+  "domain": "KYC",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "KYC",
+    "customer identification",
+    "due diligence",
+    "beneficial ownership",
+    "verification",
+    "high risk customer review delay",
+    "FAQ-KYC-007",
+    "High",
+    "Risk",
+    "Customer",
+    "Review",
+    "Delay"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-KYC-007"
+    },
+    {
+      "document_id": "SOP-KYC-007"
+    },
+    {
+      "document_id": "EXM-KYC-003"
+    },
+    {
+      "document_id": "KOD-KYC-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Customer"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Question"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Resolution"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Reasoning"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Supporting"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

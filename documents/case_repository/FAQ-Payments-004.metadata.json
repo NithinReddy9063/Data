@@ -1,0 +1,173 @@
+{
+  "document_id": "FAQ-Payments-004",
+  "title": "SWIFT Message Detail Difference",
+  "path": "documents/case_repository/FAQ-Payments-004_SWIFT_Message_Detail_Difference.md",
+  "document_type": "Case Repository",
+  "domain": "Payments",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "payments",
+    "NEFT",
+    "RTGS",
+    "IMPS",
+    "UPI",
+    "SWIFT",
+    "ACH",
+    "swift message detail difference",
+    "FAQ-Payments-004",
+    "Message",
+    "Detail",
+    "Difference"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Payments-004"
+    },
+    {
+      "document_id": "SOP-Payments-004"
+    },
+    {
+      "document_id": "EXM-Payments-004"
+    },
+    {
+      "document_id": "KOD-Payments-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

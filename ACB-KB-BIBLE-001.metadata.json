@@ -1,0 +1,441 @@
+{
+  "document_id": "ACB-KB-BIBLE-001",
+  "title": "APEX Commercial Bank Knowledge Base Bible",
+  "path": "ACB_Knowledge_Base_Bible_v1.0.md",
+  "document_type": "Repository Canon",
+  "domain": "Repository Governance",
+  "version": "1.0",
+  "status": "Frozen",
+  "classification": "Internal",
+  "risk_level": "Critical",
+  "keywords": [
+    "ACB",
+    "knowledge base",
+    "repository canon",
+    "document governance",
+    "metadata",
+    "cross-reference",
+    "document control",
+    "APEX",
+    "Commercial",
+    "Bank",
+    "Knowledge",
+    "Base",
+    "Bible"
+  ],
+  "related_documents": [],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Control Statement",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Statement"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "2",
+      "title": "Binding Repository Rules",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Binding",
+        "Rules"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "3",
+      "title": "Enterprise Structure",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Enterprise",
+        "Structure"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "4",
+      "title": "Approved Departments",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approved",
+        "Departments"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "5",
+      "title": "Approved Roles",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approved",
+        "Roles"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6",
+      "title": "Approved Products",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approved",
+        "Products"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.1",
+      "title": "Retail",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Retail"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.2",
+      "title": "Corporate",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Corporate"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.3",
+      "title": "Lending",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Lending"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.4",
+      "title": "Trade Finance",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Trade",
+        "Finance"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.5",
+      "title": "Payments",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Payments"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "7",
+      "title": "Approved Customer Types",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approved",
+        "Customer",
+        "Types"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "8",
+      "title": "Approved Risk Categories",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approved",
+        "Risk",
+        "Categories"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "9",
+      "title": "Approval Hierarchy",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approval",
+        "Hierarchy"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "10",
+      "title": "SLA Standards",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "SLA",
+        "Standards"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "11",
+      "title": "Core Document Types",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Core",
+        "Types"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "12",
+      "title": "Document Numbering",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Numbering"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "13",
+      "title": "Approved Domains",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Approved",
+        "Domains"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "14",
+      "title": "Required Standard Metadata",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Required",
+        "Standard"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "15",
+      "title": "Cross-Reference Rules",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Cross-Reference",
+        "Rules"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "16",
+      "title": "Master Templates",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Master",
+        "Templates"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "16.1",
+      "title": "Policy Template",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Template"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "16.2",
+      "title": "SOP Template",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Template"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "16.3",
+      "title": "KOD Template",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Template"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "16.4",
+      "title": "Exception Matrix Template",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Exception",
+        "Template"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "16.5",
+      "title": "Case Repository Template",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Template"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "17",
+      "title": "Initial Knowledge Map Version 1.0",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Initial",
+        "Knowledge",
+        "Map"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "18",
+      "title": "Validation Controls",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Validation",
+        "Controls"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "19",
+      "title": "Revision History",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "20",
+      "title": "Governance",
+      "keywords": [
+        "ACB",
+        "knowledge base",
+        "repository canon",
+        "document governance",
+        "metadata",
+        "Governance"
+      ],
+      "chunk_priority": "Critical"
+    }
+  ]
+}

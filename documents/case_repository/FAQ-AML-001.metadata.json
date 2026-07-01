@@ -1,0 +1,172 @@
+{
+  "document_id": "FAQ-AML-001",
+  "title": "Potential Sanctions Name Match Resolution",
+  "path": "documents/case_repository/FAQ-AML-001_Potential_Sanctions_Name_Match_Resolution.md",
+  "document_type": "Case Repository",
+  "domain": "AML",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "AML",
+    "sanctions",
+    "screening",
+    "suspicious activity",
+    "transaction monitoring",
+    "potential sanctions name match resolution",
+    "FAQ-AML-001",
+    "Potential",
+    "Name",
+    "Match",
+    "Resolution"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-AML-001"
+    },
+    {
+      "document_id": "SOP-AML-001"
+    },
+    {
+      "document_id": "EXM-AML-001"
+    },
+    {
+      "document_id": "KOD-AML-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Customer"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Question"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Resolution"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Reasoning"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Supporting"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

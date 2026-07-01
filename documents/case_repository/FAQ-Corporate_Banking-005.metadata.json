@@ -1,0 +1,171 @@
+{
+  "document_id": "FAQ-Corporate Banking-005",
+  "title": "Financial Institution Maintenance Query",
+  "path": "documents/case_repository/FAQ-Corporate_Banking-005_Financial_Institution_Maintenance_Query.md",
+  "document_type": "Case Repository",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "financial institution maintenance query",
+    "FAQ-Corporate",
+    "Banking-005",
+    "Financial",
+    "Institution",
+    "Maintenance"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-005"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-005"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-002"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-002"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Customer"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Question"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Resolution"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Reasoning"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Supporting"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "financial institution maintenance query",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

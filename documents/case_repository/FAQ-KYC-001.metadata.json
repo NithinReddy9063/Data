@@ -1,0 +1,173 @@
+{
+  "document_id": "FAQ-KYC-001",
+  "title": "Address Mismatch During Account Opening",
+  "path": "documents/case_repository/FAQ-KYC-001_Address_Mismatch_During_Account_Opening.md",
+  "document_type": "Case Repository",
+  "domain": "KYC",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "KYC",
+    "customer identification",
+    "due diligence",
+    "beneficial ownership",
+    "verification",
+    "address mismatch during account opening",
+    "FAQ-KYC-001",
+    "Address",
+    "Mismatch",
+    "During",
+    "Account",
+    "Opening"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-KYC-001"
+    },
+    {
+      "document_id": "SOP-KYC-001"
+    },
+    {
+      "document_id": "EXM-KYC-001"
+    },
+    {
+      "document_id": "KOD-KYC-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

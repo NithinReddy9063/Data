@@ -1,0 +1,159 @@
+{
+  "document_id": "EXM-Payments-004",
+  "title": "Payment Reversal Exception Matrix",
+  "path": "documents/exception_matrices/EXM-Payments-004_Payment_Reversal_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "Payments",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "payments",
+    "NEFT",
+    "RTGS",
+    "IMPS",
+    "UPI",
+    "SWIFT",
+    "ACH",
+    "payment reversal exception matrix",
+    "EXM-Payments-004",
+    "Payment",
+    "Reversal",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Payments-004"
+    },
+    {
+      "document_id": "SOP-Payments-004"
+    },
+    {
+      "document_id": "KOD-Payments-004"
+    },
+    {
+      "document_id": "FAQ-Payments-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Risk"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "SLA"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Reference"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

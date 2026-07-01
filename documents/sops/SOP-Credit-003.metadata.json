@@ -1,0 +1,198 @@
+{
+  "document_id": "SOP-Credit-003",
+  "title": "Business Loan Credit Assessment SOP",
+  "path": "documents/sops/SOP-Credit-003_Business_Loan_Credit_Assessment_SOP.md",
+  "document_type": "Standard Operating Procedure",
+  "domain": "Credit",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "credit",
+    "credit risk",
+    "loan assessment",
+    "working capital",
+    "overdraft",
+    "business loan credit assessment sop",
+    "SOP-Credit-003",
+    "Business",
+    "Loan",
+    "Assessment"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Credit-003"
+    },
+    {
+      "document_id": "KOD-Credit-003"
+    },
+    {
+      "document_id": "FAQ-Credit-003"
+    },
+    {
+      "document_id": "FAQ-Credit-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Preconditions",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Preconditions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Inputs",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Inputs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Procedure",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Procedure"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Decision Points",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Decision",
+        "Points"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Outputs",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Outputs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exception Handling",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Exception",
+        "Handling"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "KPIs",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "KPIs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "References",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "References"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

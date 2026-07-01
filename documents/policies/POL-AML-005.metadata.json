@@ -1,0 +1,211 @@
+{
+  "document_id": "POL-AML-005",
+  "title": "AML Investigation Governance Policy",
+  "path": "documents/policies/POL-AML-005_AML_Investigation_Governance_Policy.md",
+  "document_type": "Policy",
+  "domain": "AML",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Critical",
+  "keywords": [
+    "AML",
+    "sanctions",
+    "screening",
+    "suspicious activity",
+    "transaction monitoring",
+    "aml investigation governance policy",
+    "POL-AML-005",
+    "Investigation",
+    "Governance"
+  ],
+  "related_documents": [
+    {
+      "document_id": "SOP-AML-005"
+    },
+    {
+      "document_id": "SOP-AML-006"
+    },
+    {
+      "document_id": "SOP-AML-007"
+    },
+    {
+      "document_id": "KOD-AML-001"
+    },
+    {
+      "document_id": "KOD-AML-002"
+    },
+    {
+      "document_id": "KOD-AML-003"
+    },
+    {
+      "document_id": "EXM-AML-001"
+    },
+    {
+      "document_id": "EXM-AML-002"
+    },
+    {
+      "document_id": "EXM-AML-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Purpose"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "2",
+      "title": "Scope",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Scope"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "3",
+      "title": "Definitions",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Definitions"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "4",
+      "title": "Policy Statements",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Statements"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "5",
+      "title": "Roles",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Roles"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6",
+      "title": "Decision Rules",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Decision",
+        "Rules"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "7",
+      "title": "Exceptions",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Exceptions"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Escalation"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "9",
+      "title": "Controls",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Controls"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "10",
+      "title": "Related Documents",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Related"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Governance"
+      ],
+      "chunk_priority": "Critical"
+    }
+  ]
+}

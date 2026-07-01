@@ -1,0 +1,198 @@
+{
+  "document_id": "SOP-Retail Banking-003",
+  "title": "Salary Account Service Request SOP",
+  "path": "documents/sops/SOP-Retail_Banking-003_Salary_Account_Service_Request_SOP.md",
+  "document_type": "Standard Operating Procedure",
+  "domain": "Retail Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "retail banking",
+    "savings account",
+    "current account",
+    "salary account",
+    "deposit servicing",
+    "salary account service request sop",
+    "SOP-Retail",
+    "Banking-003",
+    "Salary",
+    "Account"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Retail Banking-003"
+    },
+    {
+      "document_id": "KOD-Retail Banking-003"
+    },
+    {
+      "document_id": "FAQ-Retail Banking-003"
+    },
+    {
+      "document_id": "FAQ-Retail Banking-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Preconditions",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Preconditions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Inputs",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Inputs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Procedure",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Procedure"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Decision Points",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Decision",
+        "Points"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Outputs",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Outputs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exception Handling",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Exception",
+        "Handling"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "KPIs",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "KPIs"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "References",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "References"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

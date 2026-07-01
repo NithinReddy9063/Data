@@ -1,0 +1,174 @@
+{
+  "document_id": "KOD-Payments-004",
+  "title": "Payment Exception Evidence KOD",
+  "path": "documents/kod/KOD-Payments-004_Payment_Exception_Evidence_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "Payments",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "payments",
+    "NEFT",
+    "RTGS",
+    "IMPS",
+    "UPI",
+    "SWIFT",
+    "ACH",
+    "payment exception evidence kod",
+    "KOD-Payments-004",
+    "Payment",
+    "Exception",
+    "Evidence"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Payments-004"
+    },
+    {
+      "document_id": "SOP-Payments-004"
+    },
+    {
+      "document_id": "EXM-Payments-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Purpose"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Required"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "References"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "document_id": "FAQ-Corporate Banking-004",
+  "title": "Public Limited Service Request Scenario",
+  "path": "documents/case_repository/FAQ-Corporate_Banking-004_Public_Limited_Service_Request_Scenario.md",
+  "document_type": "Case Repository",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "public limited service request scenario",
+    "FAQ-Corporate",
+    "Banking-004",
+    "Public",
+    "Limited"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-004"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-004"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-001"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "public limited service request scenario",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

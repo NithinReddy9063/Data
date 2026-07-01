@@ -1,0 +1,171 @@
+{
+  "document_id": "FAQ-Credit-006",
+  "title": "Private Limited Credit Review Clarification",
+  "path": "documents/case_repository/FAQ-Credit-006_Private_Limited_Credit_Review_Clarification.md",
+  "document_type": "Case Repository",
+  "domain": "Credit",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "credit",
+    "credit risk",
+    "loan assessment",
+    "working capital",
+    "overdraft",
+    "private limited credit review clarification",
+    "FAQ-Credit-006",
+    "Private",
+    "Limited",
+    "Review"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Credit-006"
+    },
+    {
+      "document_id": "SOP-Credit-006"
+    },
+    {
+      "document_id": "EXM-Credit-002"
+    },
+    {
+      "document_id": "KOD-Credit-002"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

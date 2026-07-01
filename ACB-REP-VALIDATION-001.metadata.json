@@ -1,0 +1,109 @@
+{
+  "document_id": "ACB-REP-VALIDATION-001",
+  "title": "Repository Validation Report",
+  "path": "validation_report.md",
+  "document_type": "Validation Report",
+  "domain": "Repository Governance",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "repository governance",
+    "validation",
+    "metadata",
+    "document control",
+    "repository validation report"
+  ],
+  "related_documents": [
+    {
+      "document_id": "ACB-KB-BIBLE-001"
+    },
+    {
+      "document_id": "ACB-REP-IDX-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Validation Scope",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository validation report",
+        "Scope"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Validation Results",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository validation report",
+        "Results"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Auto-Fixes Applied",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository validation report",
+        "Auto-Fixes",
+        "Applied"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Residual Issues",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository validation report",
+        "Residual",
+        "Issues"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Revision History",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository validation report",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Governance",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository validation report",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

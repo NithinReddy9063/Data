@@ -1,0 +1,171 @@
+{
+  "document_id": "KOD-Credit-001",
+  "title": "Retail Loan Document KOD",
+  "path": "documents/kod/KOD-Credit-001_Retail_Loan_Document_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "Credit",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "credit",
+    "credit risk",
+    "loan assessment",
+    "working capital",
+    "overdraft",
+    "retail loan document kod",
+    "KOD-Credit-001",
+    "Retail",
+    "Loan"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Credit-001"
+    },
+    {
+      "document_id": "SOP-Credit-001"
+    },
+    {
+      "document_id": "EXM-Credit-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "References"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "credit",
+        "credit risk",
+        "loan assessment",
+        "working capital",
+        "overdraft",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

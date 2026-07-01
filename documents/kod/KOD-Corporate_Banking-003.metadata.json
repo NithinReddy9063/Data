@@ -1,0 +1,171 @@
+{
+  "document_id": "KOD-Corporate Banking-003",
+  "title": "Cash Management Documents KOD",
+  "path": "documents/kod/KOD-Corporate_Banking-003_Cash_Management_Documents_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "cash management documents kod",
+    "KOD-Corporate",
+    "Banking-003",
+    "Cash",
+    "Management"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-003"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-003"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Purpose"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Required"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "References"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "cash management documents kod",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

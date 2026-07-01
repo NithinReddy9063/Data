@@ -1,0 +1,172 @@
+{
+  "document_id": "KOD-AML-004",
+  "title": "Transaction Monitoring Evidence KOD",
+  "path": "documents/kod/KOD-AML-004_Transaction_Monitoring_Evidence_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "AML",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "AML",
+    "sanctions",
+    "screening",
+    "suspicious activity",
+    "transaction monitoring",
+    "transaction monitoring evidence kod",
+    "KOD-AML-004",
+    "Transaction",
+    "Monitoring",
+    "Evidence"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-AML-004"
+    },
+    {
+      "document_id": "SOP-AML-004"
+    },
+    {
+      "document_id": "EXM-AML-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "References"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "AML",
+        "sanctions",
+        "screening",
+        "suspicious activity",
+        "transaction monitoring",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

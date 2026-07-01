@@ -1,0 +1,171 @@
+{
+  "document_id": "KOD-KYC-002",
+  "title": "Non-Individual Constitution Documents KOD",
+  "path": "documents/kod/KOD-KYC-002_Non-Individual_Constitution_Documents_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "KYC",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "KYC",
+    "customer identification",
+    "due diligence",
+    "beneficial ownership",
+    "verification",
+    "non-individual constitution documents kod",
+    "KOD-KYC-002",
+    "Non-Individual",
+    "Constitution"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-KYC-002"
+    },
+    {
+      "document_id": "SOP-KYC-002"
+    },
+    {
+      "document_id": "EXM-KYC-002"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Purpose"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Required"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "References"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

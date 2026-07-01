@@ -1,0 +1,157 @@
+{
+  "document_id": "EXM-Corporate Banking-002",
+  "title": "Escrow Account Exception Matrix",
+  "path": "documents/exception_matrices/EXM-Corporate_Banking-002_Escrow_Account_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "escrow account exception matrix",
+    "EXM-Corporate",
+    "Banking-002",
+    "Escrow",
+    "Account",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Corporate Banking-002"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-002"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-002"
+    },
+    {
+      "document_id": "FAQ-Corporate Banking-002"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Risk"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "SLA"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Reference"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account exception matrix",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

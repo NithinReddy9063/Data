@@ -1,0 +1,212 @@
+{
+  "document_id": "POL-Payments-002",
+  "title": "RTGS Processing Policy",
+  "path": "documents/policies/POL-Payments-002_RTGS_Processing_Policy.md",
+  "document_type": "Policy",
+  "domain": "Payments",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "payments",
+    "NEFT",
+    "RTGS",
+    "IMPS",
+    "UPI",
+    "SWIFT",
+    "ACH",
+    "rtgs processing policy",
+    "POL-Payments-002",
+    "Processing"
+  ],
+  "related_documents": [
+    {
+      "document_id": "SOP-Payments-002"
+    },
+    {
+      "document_id": "SOP-Payments-003"
+    },
+    {
+      "document_id": "SOP-Payments-004"
+    },
+    {
+      "document_id": "KOD-Payments-002"
+    },
+    {
+      "document_id": "KOD-Payments-003"
+    },
+    {
+      "document_id": "KOD-Payments-004"
+    },
+    {
+      "document_id": "EXM-Payments-002"
+    },
+    {
+      "document_id": "EXM-Payments-003"
+    },
+    {
+      "document_id": "EXM-Payments-004"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Scope",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Scope"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Definitions",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Definitions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Policy Statements",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Statements"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Roles",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Roles"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Decision Rules",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Decision",
+        "Rules"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exceptions",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Exceptions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Controls",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Controls"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Related Documents",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Related"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "payments",
+        "NEFT",
+        "RTGS",
+        "IMPS",
+        "UPI",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

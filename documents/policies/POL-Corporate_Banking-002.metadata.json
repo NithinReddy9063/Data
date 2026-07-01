@@ -1,0 +1,211 @@
+{
+  "document_id": "POL-Corporate Banking-002",
+  "title": "Escrow Account Control Policy",
+  "path": "documents/policies/POL-Corporate_Banking-002_Escrow_Account_Control_Policy.md",
+  "document_type": "Policy",
+  "domain": "Corporate Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "corporate banking",
+    "business current account",
+    "escrow account",
+    "cash management",
+    "escrow account control policy",
+    "POL-Corporate",
+    "Banking-002",
+    "Escrow",
+    "Account"
+  ],
+  "related_documents": [
+    {
+      "document_id": "SOP-Corporate Banking-002"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-003"
+    },
+    {
+      "document_id": "SOP-Corporate Banking-004"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-002"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-003"
+    },
+    {
+      "document_id": "KOD-Corporate Banking-001"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-002"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-003"
+    },
+    {
+      "document_id": "EXM-Corporate Banking-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Scope",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Scope"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Definitions",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Definitions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Policy Statements",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Statements"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Roles",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Roles"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Decision Rules",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Decision",
+        "Rules"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exceptions",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Exceptions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Controls",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Controls"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Related Documents",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Related"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "corporate banking",
+        "business current account",
+        "escrow account",
+        "cash management",
+        "escrow account control policy",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

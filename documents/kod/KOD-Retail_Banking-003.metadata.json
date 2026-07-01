@@ -1,0 +1,172 @@
+{
+  "document_id": "KOD-Retail Banking-003",
+  "title": "Recurring Deposit Documents KOD",
+  "path": "documents/kod/KOD-Retail_Banking-003_Recurring_Deposit_Documents_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "Retail Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "retail banking",
+    "savings account",
+    "current account",
+    "salary account",
+    "deposit servicing",
+    "recurring deposit documents kod",
+    "KOD-Retail",
+    "Banking-003",
+    "Recurring",
+    "Deposit"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Retail Banking-003"
+    },
+    {
+      "document_id": "SOP-Retail Banking-003"
+    },
+    {
+      "document_id": "EXM-Retail Banking-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Purpose"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Required"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "References"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

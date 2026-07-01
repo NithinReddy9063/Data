@@ -1,0 +1,262 @@
+{
+  "document_id": "ACB-REP-IDX-001",
+  "title": "APEX Commercial Bank Repository Index",
+  "path": "ACB_Repository_Index_v1.0.md",
+  "document_type": "Controlled Repository Index",
+  "domain": "Repository Governance",
+  "version": "1.0",
+  "status": "Approved for Document Reservation",
+  "classification": "Internal",
+  "risk_level": "Critical",
+  "keywords": [
+    "ACB",
+    "repository index",
+    "document register",
+    "document reservation",
+    "cross-reference index",
+    "knowledge base release",
+    "APEX",
+    "Commercial",
+    "Bank",
+    "Index"
+  ],
+  "related_documents": [
+    {
+      "document_id": "ACB-KB-BIBLE-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scope Control",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Scope"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "2",
+      "title": "Count Control",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Count"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "3",
+      "title": "Domain Allocation",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Domain",
+        "Allocation"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "4",
+      "title": "Metadata Resolution Model",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Metadata",
+        "Resolution",
+        "Model"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "5",
+      "title": "Domain Metadata Register",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Domain",
+        "Metadata",
+        "Register"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6",
+      "title": "Document Register",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Register"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.1",
+      "title": "KYC",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "KYC"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.2",
+      "title": "AML",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "AML"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.3",
+      "title": "Trade Finance",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Trade",
+        "Finance"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.4",
+      "title": "Customer Onboarding",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Customer",
+        "Onboarding"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.5",
+      "title": "Payments",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Payments"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.6",
+      "title": "Credit",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Credit"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.7",
+      "title": "Retail Banking",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Retail",
+        "Banking"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "6.8",
+      "title": "Corporate Banking",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Corporate",
+        "Banking"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "7",
+      "title": "Cross-Reference Control Summary",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Cross-Reference",
+        "Summary"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Critical"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "ACB",
+        "repository index",
+        "document register",
+        "document reservation",
+        "cross-reference index",
+        "Governance"
+      ],
+      "chunk_priority": "Critical"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "repository_name": "Apex Commercial Bank Knowledge Repository",
+  "version": "1.0",
+  "generated_on": "2026-07-01T00:00:00+05:30",
+  "synthetic": true,
+  "source_artifacts": [
+    "ACB_Knowledge_Base_Bible_v1.0.md",
+    "ACB_Repository_Index_v1.0.md"
+  ],
+  "document_counts": {
+    "Audit Log": 1,
+    "Audit Report": 1,
+    "Case Repository": 60,
+    "Controlled Repository Index": 1,
+    "Exception Matrix": 30,
+    "Knowledge of Documents": 30,
+    "Policy": 50,
+    "Repository Canon": 1,
+    "Repository Statistics": 1,
+    "Standard Operating Procedure": 50,
+    "Validation Report": 1
+  },
+  "folders": {
+    "documents/case_repository": 60,
+    "documents/exception_matrices": 30,
+    "documents/kod": 30,
+    "documents/policies": 50,
+    "documents/sops": 50,
+    "root": 6
+  },
+  "statistics": {
+    "total_markdown_documents": 226,
+    "controlled_knowledge_documents": 220,
+    "governance_documents": 6,
+    "total_sections": 2444,
+    "unique_keywords": 593,
+    "total_related_document_edges": 1106,
+    "chunk_metadata_files": 226,
+    "validation_critical_errors": 0,
+    "validation_warnings": 0
+  },
+  "outputs": {
+    "repository_manifest": "repository_manifest.json",
+    "document_register": "document_register.csv",
+    "validation_report": "validation_report.md",
+    "repository_statistics": "repository_statistics.md"
+  }
+}

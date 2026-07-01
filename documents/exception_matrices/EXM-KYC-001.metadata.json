@@ -1,0 +1,156 @@
+{
+  "document_id": "EXM-KYC-001",
+  "title": "Identity Document Exception Matrix",
+  "path": "documents/exception_matrices/EXM-KYC-001_Identity_Document_Exception_Matrix.md",
+  "document_type": "Exception Matrix",
+  "domain": "KYC",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "KYC",
+    "customer identification",
+    "due diligence",
+    "beneficial ownership",
+    "verification",
+    "identity document exception matrix",
+    "EXM-KYC-001",
+    "Identity",
+    "Exception"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-KYC-001"
+    },
+    {
+      "document_id": "SOP-KYC-001"
+    },
+    {
+      "document_id": "KOD-KYC-001"
+    },
+    {
+      "document_id": "FAQ-KYC-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Scenario",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Risk",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Risk"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Decision",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Approval Required",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Approval",
+        "Required"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "SLA",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "SLA"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Escalation",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Reference",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Reference"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "due diligence",
+        "beneficial ownership",
+        "verification",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}

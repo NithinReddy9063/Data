@@ -1,0 +1,146 @@
+{
+  "document_id": "ACB-REP-AUDIT-001",
+  "title": "ACB Final Repository Audit Report v1.0",
+  "path": "ACB_Final_Repository_Audit_Report_v1.0.md",
+  "document_type": "Audit Report",
+  "domain": "Repository Governance",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "ACB",
+    "Final",
+    "Audit",
+    "Report",
+    "v1 0"
+  ],
+  "related_documents": [],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Executive Summary",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Executive",
+        "Summary"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Document Counts by Type",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Counts",
+        "Type"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Document Counts by Domain",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Counts",
+        "Domain"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Cross-Reference Statistics",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Cross-Reference",
+        "Statistics"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Validation Summary",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Validation",
+        "Summary"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Unresolved Issues",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Unresolved",
+        "Issues"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Topology Notes",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Topology",
+        "Notes"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Revision History",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Governance",
+      "keywords": [
+        "ACB",
+        "Final",
+        "Audit",
+        "Report",
+        "v1 0",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

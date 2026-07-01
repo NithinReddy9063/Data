@@ -1,0 +1,173 @@
+{
+  "document_id": "KOD-Customer Onboarding-001",
+  "title": "Account Opening Form KOD",
+  "path": "documents/kod/KOD-Customer_Onboarding-001_Account_Opening_Form_KOD.md",
+  "document_type": "Knowledge of Documents",
+  "domain": "Customer Onboarding",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "customer onboarding",
+    "account opening",
+    "consent",
+    "data quality",
+    "approval routing",
+    "account opening form kod",
+    "KOD-Customer",
+    "Onboarding-001",
+    "Account",
+    "Opening",
+    "Form"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Customer Onboarding-001"
+    },
+    {
+      "document_id": "SOP-Customer Onboarding-001"
+    },
+    {
+      "document_id": "EXM-Customer Onboarding-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Purpose"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Applicable Products",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Applicable",
+        "Products"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Required Documents",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Required"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Validation Rules",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Validation",
+        "Rules"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Acceptance Criteria",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Acceptance",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Rejection Criteria",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Rejection",
+        "Criteria"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Common Errors",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Common",
+        "Errors"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "References",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "References"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "customer onboarding",
+        "account opening",
+        "consent",
+        "data quality",
+        "approval routing",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

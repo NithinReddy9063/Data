@@ -1,0 +1,171 @@
+{
+  "document_id": "FAQ-Retail Banking-002",
+  "title": "Current Account Service Request Query",
+  "path": "documents/case_repository/FAQ-Retail_Banking-002_Current_Account_Service_Request_Query.md",
+  "document_type": "Case Repository",
+  "domain": "Retail Banking",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "retail banking",
+    "savings account",
+    "current account",
+    "salary account",
+    "deposit servicing",
+    "current account service request query",
+    "FAQ-Retail",
+    "Banking-002",
+    "Current",
+    "Account"
+  ],
+  "related_documents": [
+    {
+      "document_id": "POL-Retail Banking-002"
+    },
+    {
+      "document_id": "SOP-Retail Banking-002"
+    },
+    {
+      "document_id": "EXM-Retail Banking-002"
+    },
+    {
+      "document_id": "KOD-Retail Banking-002"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Case ID",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Business Context",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Business",
+        "Context"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Customer Scenario",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Customer"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Question",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Question"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Resolution",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Resolution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Reasoning",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Reasoning"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Supporting Documents",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Supporting"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "8",
+      "title": "Lessons Learned",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Lessons",
+        "Learned"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "9",
+      "title": "Revision History",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "10",
+      "title": "Governance",
+      "keywords": [
+        "retail banking",
+        "savings account",
+        "current account",
+        "salary account",
+        "deposit servicing",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

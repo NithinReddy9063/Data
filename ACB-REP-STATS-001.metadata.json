@@ -1,0 +1,128 @@
+{
+  "document_id": "ACB-REP-STATS-001",
+  "title": "Repository Statistics",
+  "path": "repository_statistics.md",
+  "document_type": "Repository Statistics",
+  "domain": "Repository Governance",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "Medium",
+  "keywords": [
+    "repository governance",
+    "validation",
+    "metadata",
+    "document control",
+    "repository statistics"
+  ],
+  "related_documents": [
+    {
+      "document_id": "ACB-KB-BIBLE-001"
+    },
+    {
+      "document_id": "ACB-REP-IDX-001"
+    },
+    {
+      "document_id": "ACB-REP-VALIDATION-001"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Repository Summary",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Summary"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "2",
+      "title": "Document Counts by Type",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Counts",
+        "Type"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "3",
+      "title": "Document Counts by Domain",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Counts",
+        "Domain"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "4",
+      "title": "Document Counts by Risk Level",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Counts",
+        "Risk",
+        "Level"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "5",
+      "title": "Folder Distribution",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Folder",
+        "Distribution"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "6",
+      "title": "Revision History",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "Medium"
+    },
+    {
+      "section_id": "7",
+      "title": "Governance",
+      "keywords": [
+        "repository governance",
+        "validation",
+        "metadata",
+        "document control",
+        "repository statistics",
+        "Governance"
+      ],
+      "chunk_priority": "Medium"
+    }
+  ]
+}

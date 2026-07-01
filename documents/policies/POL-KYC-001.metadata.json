@@ -1,0 +1,258 @@
+{
+  "document_id": "POL-KYC-001",
+  "title": "Customer Identification and Verification Policy",
+  "path": "documents/policies/POL-KYC-001_Customer_Identification_and_Verification_Policy.md",
+  "document_type": "Policy",
+  "domain": "KYC",
+  "version": "1.0",
+  "status": "Approved",
+  "classification": "Internal",
+  "risk_level": "High",
+  "keywords": [
+    "KYC",
+    "customer identification",
+    "customer verification",
+    "customer due diligence",
+    "identity document",
+    "address proof",
+    "beneficial ownership",
+    "onboarding control",
+    "Customer",
+    "Identification",
+    "Verification"
+  ],
+  "related_documents": [
+    {
+      "document_id": "SOP-KYC-001"
+    },
+    {
+      "document_id": "SOP-KYC-002"
+    },
+    {
+      "document_id": "SOP-KYC-003"
+    },
+    {
+      "document_id": "KOD-KYC-001"
+    },
+    {
+      "document_id": "KOD-KYC-002"
+    },
+    {
+      "document_id": "KOD-KYC-003"
+    },
+    {
+      "document_id": "EXM-KYC-001"
+    },
+    {
+      "document_id": "EXM-KYC-002"
+    },
+    {
+      "document_id": "EXM-KYC-003"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "1",
+      "title": "Purpose",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Purpose"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "2",
+      "title": "Scope",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Scope"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "3",
+      "title": "Definitions",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Definitions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "4",
+      "title": "Policy Statements",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Statements"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "5",
+      "title": "Roles",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Roles"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6",
+      "title": "Decision Rules",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Decision",
+        "Rules"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6.1",
+      "title": "Customer Verification Decision Table",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Customer",
+        "Verification",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6.2",
+      "title": "Customer Type Evidence Decision Table",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Customer",
+        "Type",
+        "Evidence"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "6.3",
+      "title": "SLA and Escalation Decision Table",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "SLA",
+        "Escalation",
+        "Decision"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "7",
+      "title": "Exceptions",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Exceptions"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "8",
+      "title": "Escalation",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Escalation"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "9",
+      "title": "Controls",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Controls"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "10",
+      "title": "Related Documents",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Related"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "11",
+      "title": "Revision History",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Revision",
+        "History"
+      ],
+      "chunk_priority": "High"
+    },
+    {
+      "section_id": "12",
+      "title": "Governance",
+      "keywords": [
+        "KYC",
+        "customer identification",
+        "customer verification",
+        "customer due diligence",
+        "identity document",
+        "Governance"
+      ],
+      "chunk_priority": "High"
+    }
+  ]
+}
